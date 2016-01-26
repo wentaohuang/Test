@@ -1,0 +1,14 @@
+//
+//  Test-Prefix.pch
+//  Test
+//
+//  Created by Orange on 1/26/16.
+//  Copyright (c) 2016 Tordian. All rights reserved.
+//
+
+#ifndef Test_Test_Prefix_pch
+#define Test_Test_Prefix_pch
+
+#import <UIKit/UIKit.h>
+
+#endif

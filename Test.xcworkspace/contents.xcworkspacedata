@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Test/Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FBSDKCoreKit/FBSDKCoreKit.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Configurations"
+      name = "Configurations">
+      <FileRef
+         location = "group:FacebookSDK-Application.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-ApplicationTests.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-Library.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-LogicTests.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-Project-Debug.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-Project-Release.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-Project-TVOS-Debug.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-Project-TVOS-Release.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-Project-TVOS.xcconfig">
+      </FileRef>
+      <FileRef
+         location = "group:FacebookSDK-Project.xcconfig">
+      </FileRef>
+   </Group>
+</Workspace>
